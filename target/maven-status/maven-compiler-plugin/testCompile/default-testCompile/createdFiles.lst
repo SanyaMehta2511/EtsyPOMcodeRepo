@@ -1,0 +1,5 @@
+com\etsy\qa\tests\JewelleryPageTest.class
+com\etsy\qa\tests\ClothingPageTest.class
+com\etsy\qa\tests\SignInTest.class
+com\etsy\qa\tests\HomePageTests.class
+com\etsy\qa\tests\RegistrationTest.class

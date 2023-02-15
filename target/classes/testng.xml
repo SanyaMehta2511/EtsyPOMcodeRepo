@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ETSY Automation Test Suite">
+
+<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReportListener" />
+	</listeners>
+
+	<test name="ETSY Test Cases">
+		<classes>
+			<class name="com.etsy.qa.tests.SignInTest"></class>
+			<class name="com.etsy.qa.tests.HomePageTests"></class>
+			<class name="com.etsy.qa.tests.RegistrationTest"></class>
+			<class name="com.etsy.qa.tests.JewelleryPageTest"></class>
+			<class name="com.etsy.qa.tests.ClothingPageTest"></class>
+		</classes>
+	</test>
+</suite>

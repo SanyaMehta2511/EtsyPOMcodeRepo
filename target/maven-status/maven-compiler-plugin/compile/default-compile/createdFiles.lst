@@ -1,0 +1,8 @@
+com\etsy\qa\pages\JewelleryPage.class
+com\etsy\qa\util\EtsyUtilities.class
+com\qa\ExtentReportListener\ExtentReportListener.class
+com\etsy\qa\base\TestBase.class
+com\etsy\qa\pages\RegistrationPage.class
+com\etsy\qa\pages\SignInPage.class
+com\etsy\qa\pages\HomePage.class
+com\etsy\qa\pages\ClothingPage.class
